@@ -1,5 +1,4 @@
 # Data-Science-Machine-Learning-Projects
-# List of Projects with small description
 
 # Make sure to install before using notebooks
 R Studio - https://www.rstudio.com/products/rstudio/download/
